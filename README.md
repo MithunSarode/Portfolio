@@ -69,7 +69,7 @@ Portfolio/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/portfolio.git
+git clone https://github.com/MithunSarode/portfolio.git
 ```
 
 ### Navigate to the Project
@@ -122,13 +122,6 @@ The website is fully optimized for:
 
 ---
 
-## 📷 Preview
-
-Add a screenshot of your portfolio here.
-
-```
-images/portfolio-preview.png
-```
 
 ---
 
@@ -159,9 +152,3 @@ images/portfolio-preview.png
 If you like this project, don't forget to **Star ⭐ the repository**.
 
 ---
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
-© 2026 Mithun Raj S N
