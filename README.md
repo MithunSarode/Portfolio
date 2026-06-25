@@ -2,6 +2,13 @@
 
 A modern and responsive **Developer Portfolio Website** showcasing my skills, projects, education, and contact information. The portfolio features an interactive **Three.js animated background**, **Glassmorphism UI**, and **smooth animations** to provide an engaging user experience.
 
+## 🌐 Live Demo
+
+🚀 **Portfolio Website:**  
+https://portfolio1-two-bay.vercel.app/
+
+> Explore my portfolio to learn more about my skills, projects, and experience.
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -121,7 +128,6 @@ The website is fully optimized for:
 - Easy to Customize
 
 ---
-
 
 ---
 
